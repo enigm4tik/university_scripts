@@ -5,3 +5,4 @@ Scripts and short programs I wrote while I was studying Bioinformatics at the FH
 Course | Programming Language 
 :---- | :----
 Applied Programming | C++
+Algorithms | Python
