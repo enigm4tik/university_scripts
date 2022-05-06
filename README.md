@@ -4,7 +4,7 @@ Scripts and short programs I wrote while I was studying Bioinformatics at the FH
 
 Course | Programming Language | Description
 :---- | :---- | :---
-Applied Programming | C++ | Simple text based game
+Applied Programming | C++ | Learning programming basics by wiriting a text based game
 Algorithms | Python | Solving common programming problems with algorithms
 Linux | AWK, Shell | Parsing files
 Software Engineering | C++ | GUI Design with Qt
