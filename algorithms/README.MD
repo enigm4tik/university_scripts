@@ -1,6 +1,6 @@
 # Algorithms
 
-Solving common programming problems with algorithms.
+Common programming problems with algorithms.
 
 ## Fibonacci Algorithm
 
