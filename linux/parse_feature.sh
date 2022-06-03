@@ -1,7 +1,7 @@
 #! /bin/bash
 
 ## Date: 24.09.2016
-## Author: Anna Majewski
+## Author: enigm4tik
 ## Description: Abgabe 2 - Shellskript zum Parsen von gff3 Dateien.
 
 ## Shellscript, das folgende Dinge können soll:

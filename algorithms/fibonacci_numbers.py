@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-## Author: Anna Majewski
+## Author: enigm4tik
 ## Date: 24.02.2017
 ## Die Fibonacci Zahlen als rekursiver Algorithmus.
 

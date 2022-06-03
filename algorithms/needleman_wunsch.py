@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-## Author: Anna Majewski
+## Author: enigm4tik
 ## Date: 16.04.2017-19.04.2017
 # Revision: 26.04.2017 - 19.05.2017
 # Handling von ungleichlangen Sequenzen
@@ -31,7 +31,7 @@ if len(sys.argv) > 1:
 else:
     print("Keine Eingabedatei gewaehlt. \n"
           "Beim Aufruf bitte die Datei hinzuefuegen:\n"
-          "'./Majewski_NW.py <filename>'\n\n"
+          "'./needleman_wunsch.py <filename>'\n\n"
           "Stattdessen wird mit default Sequenzen gerechnet.")
     s = 'GATCTATCAT'
     t = 'GACTATCATCAA'

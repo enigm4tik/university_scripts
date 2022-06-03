@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-## Author: Anna Majewski
+## Author: enigm4tik
 ## Date: 24.04.2017 - 21.05.2017
 ## Description: Needleman Wunsch Algorithmus mit 3 Sequenzen
 ## Das Auffuellen der Matrix wird in 3 Schritten gemacht, damit keine Felder uebersehen werden.
@@ -31,7 +31,7 @@ if len(sys.argv) > 1:
 else:
     print("Keine Eingabedatei gewaehlt. \n"
           "Beim Aufruf bitte die Datei hinzuefuegen:\n"
-          "'./Majewski_NW3.py <filename>'\n\n"
+          "'./needleman_wunsch_multiple_sequences.py <filename>'\n\n"
           "Stattdessen wird mit default Sequenzen gerechnet.")
     s = 'GATCTATCAT'
     t = 'GACTATCATCAA'

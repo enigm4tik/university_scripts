@@ -1,4 +1,4 @@
-// Author: Anna Majewski
+// Author: enigm4tik
 // Datum: 21.02.2017 - 28.02.2017
 // Description: Design des Tutorials eines Spiels
 /* Mit diesem Spiel soll es moeglich sein einen Helden zu erstellen, eine Waffe auszuwaehlen, eine Puppe auszuwaehlen
@@ -522,11 +522,11 @@ int menue() {
  * Dadurch bin ich auf Fehler gestossen, die ich so loesen konnte. */
 void credits() {
     cout << "\nCREDITS\n\n"
-            "Projekt Manager: Gerald Holzmann\n"
-            "Original Story: Anna Majewski\n"
-            "Programmierung: Anna Majewski\n"
-            "Programmierung Support: Gerald Holzmann, learncpp.com\n"
-            "Alpha Tester: Piotr und Jacek Majewski und Martyna Michaud\n"
+            "Projekt Manager: Teacher\n"
+            "Original Story: enigm4tik\n"
+            "Programmierung: enigm4tik\n"
+            "Programmierung Support: Teacher, learncpp.com\n"
+            "Alpha Tester: Brother und Brother und Sister\n"
             "Besonderes Dankeschoen: Rainstorm Entertainment und dem Spieler dieses Spiels\n";
 };
 

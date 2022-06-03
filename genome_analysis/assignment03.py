@@ -8,7 +8,7 @@ import hgvs.parser
 import hgvs.assemblymapper
 from bioutils.assemblies import make_name_ac_map
 
-__author__ = 'Anna Majewski'
+__author__ = 'enigm4tik'
 
 
 ## Damit das Programm funktioniert, musste der Interpreter auf 2.7. gestellt werden.

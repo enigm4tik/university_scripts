@@ -1,7 +1,7 @@
 #! /bin/bash
 
 ## Date: 24.09.2016
-## Author: Anna Majewski
+## Author: enigm4tik
 ## Description: AWK Script um eine Datei zu parsen.
 
 ## Testlauf

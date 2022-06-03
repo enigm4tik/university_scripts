@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-## Author: Anna Majewski
+## Author: enigm4tik
 ## Date: 10.04.2017-18.04.2017
 ## Manhattan Tourist Problem 03
 

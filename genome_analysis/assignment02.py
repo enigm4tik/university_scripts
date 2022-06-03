@@ -2,7 +2,7 @@
 
 import vcf
 
-__author__ = 'Anna Majewski'
+__author__ = 'enigm4tik'
 
 class Assignment2:
     

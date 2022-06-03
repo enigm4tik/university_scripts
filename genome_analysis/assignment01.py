@@ -2,7 +2,7 @@ import mysql.connector
 import pysam
 import pybedtools
 
-__author__ = 'Anna Majewski'
+__author__ = 'enigm4tik'
 
 ## Allgemeine Information:
 ## Da mein Gen nicht auf Chromosom 11 liegt, aber wir mit dem BAM-File von Chromosom 11 arbeiten,

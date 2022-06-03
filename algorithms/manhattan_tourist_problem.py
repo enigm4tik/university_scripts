@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-## Author: Anna Majewski
+## Author: enigm4tik
 ## Date: 27.02.2017-07.03.2017
 ## Description: Das Manhattan Tourist Problem
 # mit Einlesen von Dateien, die die Kantengewichte enthalten
